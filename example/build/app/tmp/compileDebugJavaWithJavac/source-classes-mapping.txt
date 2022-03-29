@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/carousel_view/carousel_view/BuildConfig.java
+ com.carousel_view.carousel_view.BuildConfig
