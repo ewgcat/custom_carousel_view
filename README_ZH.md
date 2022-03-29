@@ -1,7 +1,7 @@
 
 Language: [English](README.md) | [中文](README_ZH.md)
 
-# carousel_view
+# custom_carousel_view
 
 ## Usage
 轮播图
@@ -14,7 +14,7 @@ dependencies:
 ```
 
 ```dart
-import 'package:json_to_dart_generator/json_to_dart_generator.dart';
+import 'package:custom_carousel_view/custom_carousel_view.dart';
 ``````
 ### 属性及含义介绍
 ```

@@ -1,4 +1,4 @@
-#Tue Mar 29 17:43:59 CST 2022
-base.0=/Users/lishuaihua/Desktop/carousel_view/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Mar 29 18:39:31 CST 2022
+base.0=/Users/lishuaihua/Desktop/custom_carousel_view/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

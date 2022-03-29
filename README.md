@@ -1,11 +1,11 @@
 Language: [English](README.md) | [中文](README_ZH.md)
 
-# carousel_view
+# custom_carousel_view
 
 ## Usage
 
 ### 1. Use this package as a library
-add carousel_view to dependencies
+add custom_carousel_view to dependencies
 
 ```yaml
 dependencies:
@@ -15,7 +15,7 @@ dependencies:
 ```
 
 ```dart
-import 'package:json_to_dart_generator/json_to_dart_generator.dart';
+import 'package:custom_carousel_view/custom_carousel_view.dart';
 ``````
 
 ### Introduction to attribute and meaning

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/lishuaihua/Desktop/carousel_view/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/lishuaihua/Desktop/custom_carousel_view/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/lishuaihua/Desktop/carousel_view/example/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/lishuaihua/Desktop/custom_carousel_view/example/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
