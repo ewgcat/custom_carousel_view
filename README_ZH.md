@@ -10,7 +10,7 @@ Language: [English](README.md) | [中文](README_ZH.md)
 dependencies:
   flutter:
     sdk: flutter
-  carousel_view: any
+  custom_carousel_view: any
 ```
 
 ```dart
