@@ -11,7 +11,7 @@ add custom_carousel_view to dependencies
 dependencies:
   flutter:
     sdk: flutter
-  carousel_view: any
+  custom_carousel_view: any
 ```
 
 ```dart
